@@ -1,0 +1,54 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  ls -l
+    6  ls -la
+    7  ls
+    8  cd repogit/
+    9  ls
+   10  cd ..
+   11  ls
+   12  cd READMR
+   13  cat README
+   14  cd README
+   15  cat README
+   16  git clone https://github.com/BautistaSantosTapia/SantosTapia_Vagrant.git
+   17  ls
+   18  cd SantosTapia_Vagrant/
+   19  ls
+   20  history
+   21  history > historial.txt
+   22  ls
+   23  cat historial.txt 
+   24  git status
+   25  git add .
+   26  git status
+   27  git commit -m "mi primer commit"
+   28  git config --global user.name "BautistaSantosTapia"
+   29  git commit -m "mi primer commit"
+   30  git push
+   31  git config --global user.email "bautisantostapia04@gmail.com"
+   32  git config --global user.name "BautistaSantosTapia"
+   33  git commit -m "mi primer commit"
+   34  git push
+   35  cd ..
+   36  ls
+   37  exit
+   38  ls
+   39  ls -la
+   40  ssh-keygen -t ed25519
+   41  ls -la
+   42  cd .ssh
+   43  ls
+   44  cat id_ed25519.pub
+   45  cd ..
+   46  ls
+   47  cd repogit
+   48  ls
+   49  git clone git@github.com:BautistaSantosTapia/SantosTapia_Vagrant.git
+   50  ls
+   51  cd SantosTapia_Vagrant/
+   52  ls
+   53  history
+   54  history > historial.txt
